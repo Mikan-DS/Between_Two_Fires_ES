@@ -1,0 +1,8 @@
+*.rpyc
+*.rar
+*.py
+*take.rpy
+*replace.rpy
+*__building__**
+*.bak
+*~
